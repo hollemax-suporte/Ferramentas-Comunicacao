@@ -1,2 +1,2 @@
 # Ferramentas-Comunicacao
-Central de Ferramentas de Comunicação Placas Rede
+Central de ferramentas para configuração de placas rede
